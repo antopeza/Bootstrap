@@ -1,0 +1,42 @@
+
+body {
+    background: white !important;
+    color: darkblue;
+    font-family: 'Nunito Sans', sans-serif !important;
+}
+
+a {
+    color: #333333 !important;
+    text-decoration: none !important;
+}
+
+ul {
+    list-style: none !important;
+}
+
+.banner1 {
+    background-color: #0000cc !important;
+    color: white;
+}
+
+.banner2 {
+    background-color: #fffe65 !important;
+    color: #333333 !important;
+}
+
+.btn1 {
+    background: #0000cc !important;
+    color: white !important;
+}
+
+.btn2 {
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
